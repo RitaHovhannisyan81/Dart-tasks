@@ -9,7 +9,7 @@ import 'dart:io';
 //   double myHeight = 1.75;
 //   double bmi = calculateBMI(double myWeight ,double myHeight);
 //   bmi= myWeight/(myHeight)**2
-//   print("Hello name. Your BMI is bmi.");
+//   print("Hello name. Your BMI is $bmi.");
 //}
 //2
 // void main() {
