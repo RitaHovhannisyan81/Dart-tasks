@@ -43,7 +43,7 @@ import 'dart:io';
 
 //5
 // void main() {
-//   int age = 30; //ete tariq@ 0 dnenq kvercni defolt arjeq@ zexch chi hashvi
+//   int age = 30; //ete tariq@ kam zexj@ 0 dnenq kvercni defolt arjeq@ zexch chi hashvi
 //   double price = 1500.00;
 //   int? discount; //zexj 60 tarekanic barcr
 //   if (age >= 60) {
