@@ -1,0 +1,59 @@
+Lists and Maps
+  	Iterate through a list using a for loop.
+  	Use the forEach method on a list.
+  	Filter elements in a list using where.
+  	Map elements in a list using map.
+  	Check if a list contains a specific element.
+  	Concatenate two lists.
+  	Create a set from a list.
+  	Create a list from a set.
+  	Sort a list in ascending order.
+  	Shuffle a list.
+
+
+Functions
+	Create a function that takes two parameters and returns their sum.
+	Create a function with a default parameter.
+	Create a function with named parameters.
+	Create an anonymous function.
+	Write a function that returns a function.
+	Create a function that takes a variable number of arguments.
+	Use the fat arrow (=>) syntax for a one-liner function.
+	Pass a function as a parameter to another function.
+
+
+Strings
+	Concatenate two strings using interpolation.
+	Get the length of a string.
+	Convert a string to uppercase.
+	Convert a string to lowercase.
+	Check if a string contains a substring.
+	Trim whitespace from the beginning and end of a string.
+	Split a string into a list.
+	Replace a substring in a string.
+	Convert a string to an integer.
+	Convert an integer to a string.
+
+Handle a specific exception.
+	Use multiple catch blocks.
+	Create a finally block.
+	Handle an exception using try-catch-finally.
+	Catch an exception with a conditional clause.
+	Handle asynchronous exceptions.
+
+Asynchronous Programming
+	Create a Future.
+	Use the async and await keywords.
+	Handle errors in asynchronous code.
+	Use the then and catchError methods with Futures.
+
+
+File Handling
+	Read data from a text file.
+	Write data to a text file.
+	Create a directory.
+	List files in a directory.
+	Delete a file.
+	Rename a file.
+	Read data from a JSON file.
+	Write data to a JSON file.
