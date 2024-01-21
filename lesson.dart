@@ -1,4 +1,4 @@
-import 'dart:io';
+//import 'dart:io';
 //1
 // void main() {
 //   print("Enter username:");
@@ -56,6 +56,6 @@ import 'dart:io';
 
 //8
 
-void main(List<String> argument) {
-  List<dynamic> myList = [6, 4, 4.5, "str"];
-}
+// void main(List<String> argument) {
+//   List<dynamic> myList = [6, 4, 4.5, "str"];
+// }
