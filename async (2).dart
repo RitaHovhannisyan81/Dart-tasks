@@ -18,14 +18,14 @@ Future<void> printF(int n) async {
   }
 }
 
-Future<int> getSumFuture(int n) async {
-  int sum = 5;
-  for (var i = 0; i < n; i++) {
-    sum += i;
-    return sum;
-  }
-  return 0;
-}
+// Future<int> getSumFuture(int n) async {
+//   int sum = 5;
+//   for (var i = 0; i < n; i++) {
+//     sum += i;
+//     return sum;
+//   }
+//   return 0;
+// }
 
 Stream<int> getSumStream(int n) async* {
   int sum = 0;
@@ -44,14 +44,14 @@ Stream<String> getUserNameStream() async* {
   yield 'Jack';
 }
 
-Future<String> getUserNameFuture() async {
-  await Future.delayed(Duration(seconds: 1));
-  return 'Bob';
-  await Future.delayed(Duration(seconds: 1));
-  return 'Marley';
-  await Future.delayed(Duration(seconds: 1));
-  return 'Jack';
-}
+// Future<String> getUserNameFuture() async {
+//   await Future.delayed(Duration(seconds: 1));
+//   return 'Bob';
+//   await Future.delayed(Duration(seconds: 1));
+//   return 'Marley';
+//   await Future.delayed(Duration(seconds: 1));
+//   return 'Jack';
+// }
 
 List<int> getRandomValues(int n) {
   final List<int> values = [];
